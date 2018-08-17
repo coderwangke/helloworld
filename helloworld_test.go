@@ -1,5 +1,5 @@
 package main
 
-func TestSayHello() {
+func TestSayHello(t *testing.T) {
   SayHello()
 }
