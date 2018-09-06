@@ -10,5 +10,4 @@ func main() {
 	SayHello()
 	SayHello()
 	SayHello()
-	SayHello()
 }
